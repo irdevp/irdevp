@@ -1,8 +1,15 @@
 
-![Alt text](pixel_art.gif?raw=true "Title")
-<h1 align="center"> Hello, my name is Igor Melo</h1>
+### Hey, I'm Igor Melo! ✌️
+I work as mobile developer focusing in google technologies Dart - Flutter.
 
-<h3 align="center">A frontend developer from Brazil,always specializing in google technologies (Typescript - Angular, Dart - Flutter)</h3>
+Since 2019, I've breathing mobile development and create/update diferent apks.
+> “The advance of technology is based on making it fit in so that you don't really even notice it, so it's part of everyday life.”<br>
+Bill Gates.
+
+![Alt text](pixel_art.gif?raw=true "Title")
+
+
+<h5 align="right">pixeljeff</h5>
 
 - 👨‍💻 Flutter Developer at [Brisanet Telecomunicações.](https://www.brisanet.com.br/)
 

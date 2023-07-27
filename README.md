@@ -11,5 +11,5 @@ Bill Gates.
 
 <h5 align="right">pixeljeff</h5>
 
-- 👨‍💻 Flutter Developer at [Brisanet Telecomunicações.](https://www.brisanet.com.br/)
+
 
